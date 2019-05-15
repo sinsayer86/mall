@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 11.0.2
+Implementation-Title: mall-admin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cafe.jjdev.admin
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/mall-admin
+Created-By: Maven Integration for Eclipse
+
